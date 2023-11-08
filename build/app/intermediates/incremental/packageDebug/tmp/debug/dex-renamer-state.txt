@@ -1,0 +1,4 @@
+#Wed Nov 08 15:24:19 IST 2023
+base.0=/Users/pv/Documents/Projects/firebase_signin_application/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
